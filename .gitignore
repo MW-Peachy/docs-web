@@ -1,8 +1,8 @@
 /composer.lock
 # IntelliJ project files
 .idea
-*.iml
 out
 gen
 
+/v*
 /master
