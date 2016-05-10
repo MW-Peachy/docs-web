@@ -1,0 +1,8 @@
+/composer.lock
+# IntelliJ project files
+.idea
+out
+gen
+
+/v*
+/master

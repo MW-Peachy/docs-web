@@ -1,0 +1,3 @@
+<?php
+
+// Webhook for GitHub.

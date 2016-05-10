@@ -1,0 +1,16 @@
+{
+  "name": "MW-Peachy/docs-web",
+  "description": "Documentation master system for peachy",
+  "minimum-stability": "stable",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Peachy Devs",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "twbs/bootstrap": "v3.3.6",
+    "components/jquery": "2.1.4"
+  }
+}
